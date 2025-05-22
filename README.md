@@ -1,14 +1,81 @@
-<h1 align="center">Hi 👋, I'm Jackson Ochieng</h1>
-<h3 align="center">A passionate web developer from Kenya</h3>
+# 👋 Hey there, I'm Jackson Ochieng!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ayagaocs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayagaocs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jack ayaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jack ayaga" height="30" width="40" /></a>
-<a href="https://kaggle.com/jack ayaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jack ayaga" height="30" width="40" /></a>
-<a href="https://medium.com/@jack ayaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jack ayaga" height="30" width="40" /></a>
-</p>
+🎓 Final Year Telecommunications Engineering Student at JKUAT  
+💻 Full-Stack Developer | Python • Django • JavaScript • MySQL  
+🛰️ Focused on Communication Systems, Signal Processing & Embedded Technologies
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🧠 About Me
+I’m a final-year Telecommunications Engineering student at JKUAT with a strong passion for  web development and smart systems. I specialize in Python and Django, with hands-on experience building practical solutions such as hospital admission systems, BankApp,groceries gallery apps. My background in communication systems, signal processing, and embedded technologies allows me to create innovative software that intersects with engineering. I’m always exploring new technologies, from Linux and MySQL to network simulations with Cisco Packet Tracer.
+
+- 🔭 Currently diving deep into **Linux**, **network simulation**, and **RF systems**
+- 🌱 Actively exploring **Django**, **MySQL Workbench**, and **Packet Tracer**
+- ⚡ Fun fact: I blend software with telecom engineering for innovative solutions
+
+---
+
+## 🛠️ Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+<details>
+  <summary>Click to view some of my favorite work!</summary>
+
+### 🏥 BankApp System
+> Django app that allows you to check withdraw and deposite cash remotely  in regions with limited internet.  
+🔗 [View Project](https://github.com/ayagah/BankApp)
+
+---
+
+### 📷 Groceries display system 
+> Product photo viewer for groceries  using Django static file support and user-friendly layout.  
+🔗 [View Project](https://github.com/ayagah/groceries)
+
+---
+
+### 🐾 Task Management App
+> A task management system using django with a email reminder.  
+🔗 [View Project](https://github.com/ayagah/Taskmanager)
+
+</details>
+
+---
+
+## 📈 GitHub Stats
+
+![Ayagah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayagah&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayagah&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=ayagah&theme=radical)
+
+---
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ayagah](https://www.linkedin.com/in/jack-ayaga-239832231/))
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayagah)
+📬 Email: *ayagajack@gmail.com
+
+---
+
+## 🎯 Fun Facts
+
+- 🖥️ I enjoy blending telecom and web technologies  
+- 🧑🏽‍💻 I thrive when building tools that improve everyday life  
+- 🌍 I’m on a mission to create impactful digital solutions for underserved communities
+
+---
+## My best quote
+> *“The best way to predict the future is to invent it.” – Alan Kay*
 
