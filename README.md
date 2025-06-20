@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Jackson Ochieng!
 
 🎓 Final Year Telecommunications Engineering Student at JKUAT  
-💻 Full-Stack Developer | Python • Django • JavaScript • MySQL  
+💻 Backend Developer | Python • Django • MySQL  
 🛰️ Focused on Communication Systems, Signal Processing & Embedded Technologies
 
 ---
